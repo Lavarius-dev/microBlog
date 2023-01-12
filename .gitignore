@@ -1,0 +1,5 @@
+# Packeges
+.idea/
+venv
+app.db
+microblog.log*
