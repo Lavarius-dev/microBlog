@@ -1,5 +1,12 @@
 # Packeges
 .idea/
 venv
+
+# Database
 app.db
-microblog.log*
+
+# Logs
+logs
+
+# Translations
+*.mo
